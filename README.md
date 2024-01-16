@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/NicolleMP/NicolleMP/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu sou Nicolle, uma entusiasta no início da jornada como desenvolvedora front-end, com uma paixão crescente por desbravar os desafios que o ReactJS oferece.</p>&nbsp;
+<p align="center">Eu sou Nicolle, uma entusiasta no início da jornada como desenvolvedora, com uma paixão crescente por desbravar os desafios que a tecnologia oferece.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=NicolleMP&theme=radical&mode=weekly" />
