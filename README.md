@@ -1,47 +1,81 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/NicolleMP/NicolleMP/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+ <div align="center">
 
-<p align="center">Eu sou Nicolle, uma entusiasta no início da jornada como desenvolvedora, com uma paixão crescente por desbravar os desafios que a tecnologia oferece.</p>&nbsp;
+# 👩‍💻 Nicolle Poltosi
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=NicolleMP&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-NicolleMP.vercel.app/api/top-langs/?username=NicolleMP&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+### Ciência da Computação | Desenvolvimento de Software
 
+*Transformando ideias em código e conhecimento em projetos.*
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B20,50:123A55,100:6D28D9&height=4&section=header" width="100%" alt="Linha decorativa em tons de azul e roxo" />
 
-## My Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolle-poltosi-496b92278/)
+[![GitHub](https://img.shields.io/badge/GitHub-NicolleMP-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolleMP)
 
-#### Main Stack:
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+## ✨ Sobre mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+Sou estudante de **Ciência da Computação** na **Universidade Regional Integrada do Alto Uruguai e das Missões (URI)**, Campus Santiago/RS.
 
-#### Workstation Tools:
+Tenho interesse em desenvolvimento de software e gosto de explorar diferentes áreas da computação, aprender novas tecnologias e transformar conhecimentos em projetos práticos. Acredito que cada projeto é uma oportunidade de desenvolver novas habilidades, experimentar ideias e aprimorar minha forma de resolver problemas.
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+Atualmente, venho trabalhando com diferentes tecnologias em projetos acadêmicos e pessoais, explorando desde aplicações web e mobile até serviços backend.
 
-&nbsp;
-&nbsp;
+- 🎓 Graduanda em Ciência da Computação
+- 💻 Explorando diferentes áreas do desenvolvimento de software
+- ☕ Desenvolvendo aplicações com Java e Spring Boot
+- 🌐 Trabalhando com tecnologias para aplicações web
+- 🚀 Sempre aprendendo, experimentando e evoluindo a cada projeto
 
-## Contacts:
+## 🛠️ Tecnologias e ferramentas
 
-<div> 
-<a href = "mailto:contato.nimendespoltosi46@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/
-nicolle-poltosi-496b92278
-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
+<div align="center">
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+**Linguagens de programação e desenvolvimento web**
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,kotlin,html,css&theme=dark" alt="Java, JavaScript, TypeScript, Python, Kotlin, HTML e CSS" />
+
+**Frameworks e bibliotecas**
+
+<img src="https://skillicons.dev/icons?i=spring,react&theme=dark" alt="Spring e React" />
+
+**Ferramentas e plataformas**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,vscode,idea,postman&theme=dark" alt="Git, GitHub, Docker, Maven, VS Code, IntelliJ IDEA e Postman" />
+
+</div>
+
+## 🚀 Projetos em destaque
+
+### ♻️ EcoComunidade
+
+Aplicação web em desenvolvimento com foco em sustentabilidade e conscientização ambiental. O projeto busca incentivar práticas de reciclagem e aproximar as pessoas de informações sobre descarte correto e reutilização de materiais.
+
+`React` · `JavaScript` · `TailwindCSS` · `IA`
+
+### 🎯 App CSGO
+
+Aplicativo Android desenvolvido em equipe para a disciplina de Desenvolvimento Mobile, com foco na exploração do universo de Counter-Strike: Global Offensive. O projeto consome uma API externa para apresentar informações sobre skins, agentes, caixas, adesivos e outros conteúdos do jogo, além de oferecer pesquisa e uma animação interativa de abertura de caixas.
+
+`Kotlin` · `Android`
+
+### 📚 Análise comparativa de protocolos de comunicação em APIs
+
+Trabalho de Conclusão de Curso desenvolvido com Java 21 e Spring Boot, com implementações de REST, gRPC, GraphQL e SOAP para comparar o desempenho dos protocolos em cenários controlados, considerando latência, vazão e tamanho dos dados transmitidos.
+
+`Java` · `Spring Boot` · `REST` · `gRPC` · `GraphQL` · `SOAP` · `k6`
+
+> 💡 Explore meus repositórios para conhecer outros projetos e acompanhar minha evolução na programação.
+
+## 📫 Vamos nos conectar?
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Acompanhe_meus_projetos-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolleMP)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_nos_conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolle-poltosi-496b92278/)
+
+<br/>
+
+*Construindo, aprendendo e evoluindo — um commit de cada vez. ✨*
+
+</div>
