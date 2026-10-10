@@ -21,11 +21,9 @@ Tenho interesse em desenvolvimento de software e gosto de explorar diferentes á
 
 Atualmente, venho trabalhando com diferentes tecnologias em projetos acadêmicos e pessoais, explorando desde aplicações web e mobile até serviços backend.
 
-- 🎓 Graduanda em Ciência da Computação
-- 💻 Explorando diferentes áreas do desenvolvimento de software
-- ☕ Desenvolvendo aplicações com Java e Spring Boot
-- 🌐 Trabalhando com tecnologias para aplicações web
-- 🚀 Sempre aprendendo, experimentando e evoluindo a cada projeto
+- 🎓 Graduanda em Ciência da Computação na URI
+- ☕ Desenvolvendo aplicações com Java, Spring Boot e tecnologias web
+- 🚀 Explorando novas tecnologias e aprimorando minhas habilidades por meio de projetos
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -45,21 +43,22 @@ Atualmente, venho trabalhando com diferentes tecnologias em projetos acadêmicos
 
 </div>
 
+
 ## 🚀 Projetos em destaque
 
-### ♻️ EcoComunidade
+### ♻️ [EcoComunidade](https://github.com/NicolleMP/EcoComunidade)
 
 Aplicação web em desenvolvimento com foco em sustentabilidade e conscientização ambiental. O projeto busca incentivar práticas de reciclagem e aproximar as pessoas de informações sobre descarte correto e reutilização de materiais.
 
 `React` · `JavaScript` · `TailwindCSS` · `IA`
 
-### 🎯 App CSGO
+### 🎯 [App CSGO](https://github.com/NicolleMP/app-csgo)
 
 Aplicativo Android desenvolvido em equipe para a disciplina de Desenvolvimento Mobile, com foco na exploração do universo de Counter-Strike: Global Offensive. O projeto consome uma API externa para apresentar informações sobre skins, agentes, caixas, adesivos e outros conteúdos do jogo, além de oferecer pesquisa e uma animação interativa de abertura de caixas.
 
 `Kotlin` · `Android`
 
-### 📚 Análise comparativa de protocolos de comunicação em APIs
+### 📚 [Análise comparativa de protocolos de comunicação em APIs](https://github.com/NicolleMP/APIs_Biblioteca_TCC)
 
 Trabalho de Conclusão de Curso desenvolvido com Java 21 e Spring Boot, com implementações de REST, gRPC, GraphQL e SOAP para comparar o desempenho dos protocolos em cenários controlados, considerando latência, vazão e tamanho dos dados transmitidos.
 
@@ -67,9 +66,25 @@ Trabalho de Conclusão de Curso desenvolvido com Java 21 e Spring Boot, com impl
 
 > 💡 Explore meus repositórios para conhecer outros projetos e acompanhar minha evolução na programação.
 
-## 🐍 Minha jornada no GitHub
+
+## 📊 Minha atividade no GitHub
 
 <div align="center">
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolleMP&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NicolleMP&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estatísticas do GitHub"
+    height="170"
+  />
+</p>
+
+<br>
 
 <picture>
   <source
@@ -85,8 +100,6 @@ Trabalho de Conclusão de Curso desenvolvido com Java 21 e Spring Boot, com impl
 </picture>
 
 </div>
-
-
 
 ## 📫 Vamos nos conectar?
 
