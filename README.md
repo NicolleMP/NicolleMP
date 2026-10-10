@@ -67,15 +67,32 @@ Trabalho de Conclusão de Curso desenvolvido com Java 21 e Spring Boot, com impl
 
 > 💡 Explore meus repositórios para conhecer outros projetos e acompanhar minha evolução na programação.
 
+## 🐍 Minha jornada no GitHub
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NicolleMP/NicolleMP/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NicolleMP/NicolleMP/output/github-contribution-grid-snake.svg">
+  <img
+    alt="Animação das minhas contribuições no GitHub"
+    src="https://raw.githubusercontent.com/NicolleMP/NicolleMP/output/github-contribution-grid-snake.svg"
+    width="100%">
+</picture>
+
+</div>
+
+
+
 ## 📫 Vamos nos conectar?
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Acompanhe_meus_projetos-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolleMP)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_nos_conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolle-poltosi-496b92278/)
-
-<br/>
-
-*Construindo, aprendendo e evoluindo — um commit de cada vez. ✨*
 
 </div>
